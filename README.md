@@ -4,6 +4,7 @@ This repo is made just for fun. You can add any python program you want but shou
 
 The Project contains these programs:
 1. To generate four digits OTP.
+2. To get IP address of your device.
 
 
 *Under Production
